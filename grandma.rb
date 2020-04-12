@@ -20,6 +20,8 @@ if phrase == "I LOVE YOU GRANDMA!"
  else puts "HUH?! SPEAK UP, SONNY!"
 end
 
-if phrase != 
+if phrase != phrase.upcase
+return "HUH?! SPEAK UP, SONNY!"
+end
 end
 
