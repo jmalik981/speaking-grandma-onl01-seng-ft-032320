@@ -15,5 +15,6 @@
 grandma = "I LOVE YOU GRANDMA!"
 
 def grandma 
-  if grandma == 
+  if grandma == "I LOVE YOU GRANDMA".upcase
+    
   
